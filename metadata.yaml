@@ -1,0 +1,28 @@
+_repo: Episodes-in-Van-Bibber-s-Life_334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: ''
+gutenberg_issued: '1995-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: Her first appearance -- Van Bibber's man-servant -- The hungry man
+  was fed -- Love me, love my dog.
+title: Episodes in Van Bibber's Life
+url: http://www.gutenberg.org/ebooks/334
